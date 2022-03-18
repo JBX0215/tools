@@ -25,3 +25,6 @@
 关键字: "keywords": "#a207fc"
 变量: "variables": "#0720fc"
 数字: "numbers": "#e21d1d"
+
+### 插件推荐
+Bracket Pair Colorizer 括号自动识别匹配为不同颜色, 支持自定义, 极大的提高开发效率. This extension allows matching brackets to be identified with colours. The user can define which characters to match, and which colours to use.
