@@ -1,0 +1,47 @@
+{
+    "terminal.integrated.rendererType": "dom",
+    "workbench.sideBar.location": "right",
+    "workbench.colorCustomizations": {
+        "[Default Light+]":{
+            "editor.selectionHighlightBackground": "#f5f113",
+            "editor.selectionBackground": "#f5f113",
+            "editor.background": "#cce8cf",
+            "editorGutter.background": "#cce8cf",
+            "editorCursor.foreground": "#ff0000",
+            "editor.lineHighlightBorder": "#d3d3d3",
+        }
+    },
+    "editor.tokenColorCustomizations": {
+        "[Default Light+]":{
+            "comments": "#519657",
+            "strings": "#7e3648",
+            "functions": "#1c7887",
+            "keywords": "#a207fc",
+            "variables": "#0720fc",
+            "numbers": "#e21d1d",
+            "textMateRules":[
+                {
+                    "name": "Operator",
+                    "scope": "keyword.operator",
+                    "settings":{
+                        "foreground": "#e21d1d",
+                        "fontStyle": "bold"
+                    }
+                },
+                {
+                    "name": "Punctuation",
+                    "scope": "punctuation",
+                    "settings":{
+                        "foreground": "#a207fc",
+                        "fontStyle": "bold"
+                    }
+                }
+            ]
+        }
+    },
+    "editor.fontWeight": "500",
+    "editor.fontSize": 14.5,
+    "workbench.colorTheme": "Default Light+",
+    "editor.fontFamily": "Consolas, '微软雅黑', monospace",
+    "window.zoomLevel": 0
+}
